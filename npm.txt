@@ -10,3 +10,6 @@ rm -rf node-modules
 yarn   (install all packages again)
 yarn start   (start server)
 
+<<react router>>
+yarn add react-router-dom
+
