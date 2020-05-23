@@ -1,0 +1,12 @@
+npx create-react-app crwn-clothing
+cd crwn-clothing
+yarn start
+
+
+yarn add node-sass   (add sass)
+restart server if you found an error then do the followings.
+rm -rf yarn.lock   (remove yarn.lock)
+rm -rf node-modules
+yarn   (install all packages again)
+yarn start   (start server)
+
